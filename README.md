@@ -1,5 +1,5 @@
 ```markdown
-# **README.md Descontraído: Busca de Atletas Olímpicos**
+# **README.md Descontraído: Busca de Atletas Olímpicos - Imersão Dev com Google Gemini**
 
 ### **O que faz essa aplicação?**
 
