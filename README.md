@@ -1,4 +1,4 @@
-## Enciclopédia de Atletas Brasileiros 
+## Enciclopédia de Atletas Brasileiros - Imersão Dev com Google Gemini
 
 **O que é isso?**
 
